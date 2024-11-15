@@ -8,13 +8,10 @@
    - `v2ray –config=/etc/v2ray/config.json` 启动服务
 
 3. - `vi /etc/profile` 后 `source /etc/profile`
-   ```json
-    export http_proxy=socks5://127.0.0.1:10808
-​
-    export https_proxy=socks5://127.0.0.1:10808
-​
-    export ftp_proxy=socks5://127.0.0.1:10808
-​
-    export no_proxy="192.168.x.x"
+```json
+export http_proxy=socks5://127.0.0.1:10888
+export https_proxy=socks5://127.0.0.1:10888
+export ftp_proxy=socks5://127.0.0.1:10888
+export no_proxy="192.168.x.x"
    ```
 
