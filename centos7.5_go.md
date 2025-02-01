@@ -2,7 +2,7 @@
 
 1. - 相关资源放置在 /opt/ 目录下,
    - `wget https://dl.google.com/go/go1.11.4.linux-amd64.tar.gz`
-   - 加压后配置 go 的工作空间和环境变量
+   - 解压后配置 go 的工作空间和环境变量
    - `mkdir /opt/gocode/{src,bin,pkg}`
    - `vi /etc/profile`
    ```yaml
