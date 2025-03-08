@@ -4,7 +4,7 @@ centos7.6配置V2ray作为客户端
 
 ### 1、下载安装包
 
-+   从 [https://github.com/v2ray/v2ray-core/releases/tag/v4.28.2](https://github.com/v2ray/v2ray-core/releases/tag/v4.28.2) 下载 [v2ray](https://www.witersen.com/?tag=v2ray "v2ray")\-linux-64.zip 文件并解压
++   从 [https://github.com/v2ray/v2ray-core/releases/tag/v4.28.2](https://github.com/v2ray/v2ray-core/releases/tag) 下载 [v2ray](https://www.witersen.com/?tag=v2ray "v2ray")\-linux-64.zip 文件并解压
 +   (选择适合自己设备的即可)
 
 
