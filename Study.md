@@ -57,7 +57,7 @@
 
 ## 
 
-## Burp Suite
+## 5. Burp Suite
 
 [Burp Suite Pro 2022.11.4 本体](https://portswigger.net/burp/releases/professional-community-2022-11-4)
 
