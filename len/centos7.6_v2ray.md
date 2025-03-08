@@ -1,6 +1,6 @@
 centos7.6配置V2ray作为客户端
 
-# linux下配置V2ray作为客户端来访问GitHub、G\*le等服务
+# linux下配置V2ray作为客户端来访问GitHub等服务
 
 ### 1、下载安装包
 
@@ -106,5 +106,3 @@ function unsetproxy() {
 +   或是关闭当前终端，重新打开，使得配置立即生效;
 +   在终端执行 setproxy 使代理生效
 +   在终端执行 unsetproxy 使代理生效
-
-## 文章经过DeepSeek润色，属于AI辅助创作
