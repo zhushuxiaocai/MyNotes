@@ -41,8 +41,6 @@
 
 > - 解压缩后即安装完成![](C:\Users\Administrator\AppData\Roaming\marktext\images\2025-03-08-09-54-38-image.png)
 
-
-
 ## 4. Docker Docker-compose
 
 ##### [docker-compose下载](https://github.com/docker/compose)
@@ -88,13 +86,24 @@
 >   -javaagent:burpsuitloader-3.7.17-all.jar=loader,han
 >   -javaagent:BurpLoaderKeygen.jar
 >   -Xmx2048m
->   
 >   ```
 >   
 >   添加浏览器拓展情景模式为 HTTP 127.0.0.1 8080 <-loopback>
 >   
->   默认burp之抓http 这里要在![](C:\Users\Administrator\AppData\Roaming\marktext\images\2025-03-08-16-47-06-image.png)
+>   默认burp只抓http 这里要在![](C:\Users\Administrator\AppData\Roaming\marktext\images\2025-03-08-16-47-06-image.png)
 >   
 >   选择导出der格式证书, 选择保存到 受信任的??? 中 后安装证书, 重启浏览器使用bp代理即可.
 
   
+
+### 6.1 TEST
+
+```python
+调整DVWA难度为low, 选择 Brute Force 
+```
+
+- 找到包后右键, 进入到重放中, 发送一次包, 右键
+
+![](C:\Users\Administrator\AppData\Roaming\marktext\images\2025-03-09-09-19-22-image.png)    ![](C:\Users\Administrator\AppData\Roaming\marktext\images\2025-03-09-09-25-24-image.png)
+
+- 进入到 Intruder  调整参数, 导入字典, `Start`
